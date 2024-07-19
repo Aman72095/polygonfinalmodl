@@ -22,4 +22,4 @@ npx hardhat run scripts/depoly.ts --network mumbai
 
 Author
 
-Aman Kumar	
+Aman patel	
