@@ -1,6 +1,6 @@
-Custom Circuit
+## Custom Circuit
 
-This repository contains the circuit and the deployment process of mumbai Testnet
+This repository contains the circuit and the deployment process of Amoy Testnet
 
 circuit.circom contains the code for the circuit
 
@@ -17,8 +17,8 @@ Inside your input.json file paste { "a": "0", "b": "1" }
 Prove and Deploy
 npx hardhat run scripts/deploy.ts Calls verifyProof() on the verifier contract with calldata
 
-Deploy on Mumbai Testnet
-npx hardhat run scripts/depoly.ts --network mumbai
+Deploy on Amoy Testnet
+npx hardhat run scripts/depoly.ts --network amoy
 
 Author
 
