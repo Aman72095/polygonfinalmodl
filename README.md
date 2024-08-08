@@ -9,7 +9,7 @@ Steps to Run
 'npm i'
 
 ### Compile
-'npx hardhat circom'
+`npx hardhat circom`
 
 To prove you know the inputs A (0) & B (1) that yield Q=0 as output.
 Inside your input.json file paste { "a": "0", "b": "1" }
