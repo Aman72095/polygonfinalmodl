@@ -27,7 +27,7 @@ const config: HardhatUserConfig = {
   networks:{
   amoy: {
     url: 'https://polygon-amoy.gateway.tatum.io',
-    accounts: ["2160702757ea47f08d7cbc21be51b0e6be8953dc3c912d9ab441fa9eae001021"]
+    accounts: ["11b0c9de64ab65df435387c8f2e2873d72cd7b719a4df372b6523a3079d363cc"]
   }
   },
   circom: {
