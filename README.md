@@ -19,7 +19,7 @@ Inside your input.json file paste { "a": "0", "b": "1" }
 Calls verifyProof() on the verifier contract with calldata
 
 ### Deploy on Amoy Testnet
-`npx hardhat run scripts/depoly.ts --network amoy`
+`npx hardhat run scripts/deploy.ts --network amoy`
 
 Author
 
